@@ -1,0 +1,6 @@
+c:\users\hans.palacios\documents\visual studio 2017\Projects\TotalLength\TotalLength\bin\Debug\TotalLength.addin
+c:\users\hans.palacios\documents\visual studio 2017\Projects\TotalLength\TotalLength\bin\Debug\TotalLength.dll
+c:\users\hans.palacios\documents\visual studio 2017\Projects\TotalLength\TotalLength\bin\Debug\TotalLength.pdb
+c:\users\hans.palacios\documents\visual studio 2017\Projects\TotalLength\TotalLength\obj\Debug\TotalLength.csprojResolveAssemblyReference.cache
+c:\users\hans.palacios\documents\visual studio 2017\Projects\TotalLength\TotalLength\obj\Debug\TotalLength.dll
+c:\users\hans.palacios\documents\visual studio 2017\Projects\TotalLength\TotalLength\obj\Debug\TotalLength.pdb
